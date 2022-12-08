@@ -2,8 +2,8 @@
 - 🩺 I'm currently an M.D. student at the Carle Illinois College of Medicine at the University of Illinois, Urbana-Champaign.
 - 🤖 I'm also working on Natural Language Processing research applied to neurology records (public tools [@cactiML](https://github.com/cactiML)).
 - 💻 More about me at [samrawal.com](https://samrawal.com).
-- ✏️ I write at [samrawal.substack.com](samrawal.substack.com).
-- 🐦 I'm on Twitter [@samarthrawal](http://twitter.com/samarthrawal).
+- ✏️ I write at [samrawal.substack.com](https://samrawal.substack.com).
+- 🐦 I'm on Twitter [@samarthrawal](https://twitter.com/samarthrawal).
 
 <!---
 samrawal/samrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
